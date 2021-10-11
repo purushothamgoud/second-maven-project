@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h2> Welcome to Maven deployment Goal </h2>
+<h2>HELLO  BANDARI PURUSHOTHAMGOUD!</h2>
+<h2> YOUR JENKINS WAR FILE SUCCEFULLY DEPLOY ON TOMCAT WEB SERVER </h2>
 </body>
 </html>
